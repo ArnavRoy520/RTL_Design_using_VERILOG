@@ -32,18 +32,13 @@ module two2one_MUX_tb;
  $dumpfile("two2one_MUX.v");
  $dumpvars (0, two2one_MUX_tb);
  
- a_i   = $urandom_range (0, 8'hFF);
- b_i   = $urandom_range (0, 8'hFF);
- sel_i = $random%2;
- #5;
- a_i   = $urandom_range (0, 8'hFF);
- b_i   = $urandom_range (0, 8'hFF);
- sel_i = $random%2;
- #5;
- a_i   = $urandom_range (0, 8'hFF);
- b_i   = $urandom_range (0, 8'hFF);
- sel_i = $random%2;
- #5;
+ for (integer i = 0; i < 10; i=i+1) 
+    begin
+        a_i   = $urandom_range (0, 8'hFF);
+        b_i   = $urandom_range (0, 8'hFF);
+        sel_i = $random%2;
+      #5;
+    end
  end
 initial
     begin
