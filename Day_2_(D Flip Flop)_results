@@ -1,0 +1,16 @@
+time =                    0, clk = 1, d_i = 0, rst = 0, q_no_rst = 0, q_sync_rst = 0, q_async_rst = 0
+time =                    5, clk = 0, d_i = 0, rst = 1, q_no_rst = 0, q_sync_rst = 0, q_async_rst = 0
+time =                   10, clk = 1, d_i = 1, rst = 0, q_no_rst = 1, q_sync_rst = 1, q_async_rst = 1
+time =                   15, clk = 0, d_i = 0, rst = 1, q_no_rst = 1, q_sync_rst = 1, q_async_rst = 0
+time =                   20, clk = 1, d_i = 1, rst = 0, q_no_rst = 1, q_sync_rst = 1, q_async_rst = 1
+time =                   25, clk = 0, d_i = 1, rst = 1, q_no_rst = 1, q_sync_rst = 1, q_async_rst = 0
+time =                   30, clk = 1, d_i = 0, rst = 1, q_no_rst = 0, q_sync_rst = 0, q_async_rst = 0
+time =                   35, clk = 0, d_i = 0, rst = 1, q_no_rst = 0, q_sync_rst = 0, q_async_rst = 0
+time =                   40, clk = 1, d_i = 1, rst = 1, q_no_rst = 1, q_sync_rst = 0, q_async_rst = 0
+time =                   45, clk = 0, d_i = 0, rst = 1, q_no_rst = 1, q_sync_rst = 0, q_async_rst = 0
+time =                   50, clk = 1, d_i = 0, rst = 1, q_no_rst = 0, q_sync_rst = 0, q_async_rst = 0
+time =                   55, clk = 0, d_i = 1, rst = 0, q_no_rst = 0, q_sync_rst = 0, q_async_rst = 0
+time =                   60, clk = 1, d_i = 0, rst = 0, q_no_rst = 0, q_sync_rst = 0, q_async_rst = 0
+time =                   65, clk = 0, d_i = 1, rst = 1, q_no_rst = 0, q_sync_rst = 0, q_async_rst = 0
+time =                   70, clk = 1, d_i = 0, rst = 0, q_no_rst = 0, q_sync_rst = 0, q_async_rst = 0
+time =                   75, clk = 0, d_i = 1, rst = 1, q_no_rst = 0, q_sync_rst = 0, q_async_rst = 0
